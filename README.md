@@ -1,5 +1,5 @@
 # Cactus-Identification-Challenge-ML
-This repository contains the notebook submitted for the "Aerial Cactus Identification" Kaggle Challenge. 
+This repository contains the notebook submitted for the [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/overview) Kaggle Challenge. 
 
 The challenge was a computer vision problem and it involved binary classification of whether cacti were present in a given photo or not. 
 
